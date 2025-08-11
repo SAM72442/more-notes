@@ -11,7 +11,7 @@ Write, edit, and delete notes — all stored in your browser with Local Storage.
 - **Delete Notes** – Keep your space clean.
 - **Local Storage Support** – Your notes stay even after you close the browser.
 - **Search and filter notes.**
-- **Dark mode** – Compatable with user's device light modes.
+- **Dark/Light mode** – Compatable with user's device light modes.
 - **Responsive design** – Works on phones, tablets, and desktops.
 
 ## Roadmap/Future Updates:
