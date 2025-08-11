@@ -4,8 +4,6 @@ A simple note-taking app built with React.
 
 Write, edit, and delete notes — all stored in your browser with Local Storage.
 
----
-
 ## Features:
 
 - **Add Notes** – Capture your ideas instantly.
