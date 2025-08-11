@@ -16,8 +16,6 @@ Write, edit, and delete notes — all stored in your browser with Local Storage.
 - **Dark mode** – Compatable with user's device light modes.
 - **Responsive design** – Works on phones, tablets, and desktops.
 
----
-
 ## Roadmap/Future Updates:
 
 - **Important Tagging** – Highlight the notes that are important.
@@ -27,8 +25,6 @@ Write, edit, and delete notes — all stored in your browser with Local Storage.
 ## Screenshots:
 
 _Uploading Soon_
-
----
 
 ## License:
 
