@@ -1,6 +1,7 @@
 # More Notes
 
 A simple note-taking app built with React.
+
 Write, edit, and delete notes — all stored in your browser with Local Storage.
 
 ---
@@ -26,3 +27,9 @@ Write, edit, and delete notes — all stored in your browser with Local Storage.
 ## Screenshots:
 
 _Uploading Soon_
+
+---
+
+## License:
+
+MIT
