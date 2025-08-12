@@ -155,6 +155,9 @@ button {
 }
 
 @media (max-width: 750px) {
+	#root {
+		min-height: 80vh;
+	}
 	.notes-container{
 		grid-template-columns: 1fr 1fr;
 	}
