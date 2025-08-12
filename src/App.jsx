@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import CreateNotes from "./pages/CreateNotes";
 import EditNote from "./pages/EditNote";
 import NotesHome from "./pages/NotesHome";
@@ -15,7 +15,7 @@ const App = () => {
   }, [notes]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<NotesHome notes={notes} />} />
         <Route
@@ -27,7 +27,7 @@ const App = () => {
           element={<EditNote notes={notes} setNotes={setNotes} />}
         />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
